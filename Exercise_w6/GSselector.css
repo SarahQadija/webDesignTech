@@ -1,0 +1,8 @@
+div ~ p {
+    background-color: brown;
+    font-size: 5px italic ;
+  }
+
+h3{
+   background-color: yellowgreen;
+}

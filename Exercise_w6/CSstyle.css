@@ -1,0 +1,4 @@
+div > p {
+    font-style: italic;
+    border: 4px dotted burlywood;
+  }
